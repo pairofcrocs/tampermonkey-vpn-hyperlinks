@@ -3,7 +3,7 @@ The TamperMonkey VPN Hyperlink script is a powerful tool designed to improve the
 The script analyzes web pages for hyperlinks containing IP addresses and dynamically modifies them on the fly. Whenever a user clicks on a hyperlink, the script captures the event and evaluates the target URL. If the URL contains an IP address, such as '192.168.1.5', the script seamlessly converts it to the base domain of the current page. This conversion process facilitates a consistent browsing experience by aligning all hyperlinks to the same domain format, eliminating the need for users to mentally interpret IP addresses and minimizing the risk of incorrect inputs.
 
 
-**Instalation:**
+**Installation:**
 
  1. Install a Compatible Web Browser: Ensure you have a compatible web
     browser installed on your computer. The TamperMonkey VPN Hyperlink
